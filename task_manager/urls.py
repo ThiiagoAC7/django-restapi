@@ -16,7 +16,6 @@ schema_view = get_schema_view(
       title="Task Manager API - Desafio",
       default_version='v1',
       description="Desafio Sistema de Gerenciamento de Tarefas",
-      terms_of_service="https://www.google.com/policies/terms/",
    ),
    public=True,
    permission_classes=(permissions.AllowAny,),
