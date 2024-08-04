@@ -1,6 +1,23 @@
 # Desafio: Sistema de Gerenciamento de Tarefas
 
-Thiago Amado Costa
+Simples RestAPI em Django com um sistema de Gerenciamento de Tarefas
+
+## Requisitos
+
+1. Python 3.9
+2. Django
+3. Django Rest Framework
+3. PostgreSQL
+
+## Utilização:
+
+1. Clone o repositorio
+2. Crie e ative um ambiente virtual em Python 3.9
+3. Instale os requirements.txt
+4. Configure o PostgreSQL e mude caso necessário no arquivo settings.py 
+5. Aplique as migrações
+6. Rode o servidor ou rode os testes 
+7. Exemplo de requisições no arquivo api-tests.sh (utiliza cURL e jq para processar o json)
 
 ## Referencias
 
